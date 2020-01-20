@@ -1,5 +1,5 @@
 # High Quality PDF
-People need high quality (no compresses) PDF file for research paper submission. This tutorial will teach you to create high quality PDF files using Acrobat Pro DC.
+People need high quality (no compresses) PDF file for research paper submission, news article, online album etc. This tutorial will teach you to create high quality PDF files using Acrobat Pro DC.
 
 # Steps
 1. Download "Acrobat Pro DC" form https://acrobat.adobe.com/us/en/acrobat/acrobat-pro.html . Standard version will not work.
